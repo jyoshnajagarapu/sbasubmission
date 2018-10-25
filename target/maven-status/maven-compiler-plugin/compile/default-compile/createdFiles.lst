@@ -1,6 +1,6 @@
-com\sba3\model\Employee.class
-com\sba3\service\EmployeeService.class
-com\sba3\restapi\EmployeeRestController.class
-com\sba3\dao\EmployeeDao.class
-com\sba3\service\EmployeeServiceImpl.class
+com\sba3\model\Customer.class
+com\sba3\restapi\CustomerRestController.class
+com\sba3\service\CustomerService.class
 com\sba3\Sba3Application.class
+com\sba3\service\CustomerServiceImpl.class
+com\sba3\dao\CustomerDao.class

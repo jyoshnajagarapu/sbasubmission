@@ -1,6 +1,6 @@
-C:\Users\verizon\Desktop\sba3\src\main\java\com\sba3\dao\EmployeeDao.java
-C:\Users\verizon\Desktop\sba3\src\main\java\com\sba3\service\EmployeeService.java
-C:\Users\verizon\Desktop\sba3\src\main\java\com\sba3\service\EmployeeServiceImpl.java
-C:\Users\verizon\Desktop\sba3\src\main\java\com\sba3\Sba3Application.java
-C:\Users\verizon\Desktop\sba3\src\main\java\com\sba3\restapi\EmployeeRestController.java
-C:\Users\verizon\Desktop\sba3\src\main\java\com\sba3\model\Employee.java
+C:\Users\verizon\workspace\sba3\src\main\java\com\sba3\restapi\CustomerRestController.java
+C:\Users\verizon\workspace\sba3\src\main\java\com\sba3\service\CustomerService.java
+C:\Users\verizon\workspace\sba3\src\main\java\com\sba3\service\CustomerServiceImpl.java
+C:\Users\verizon\workspace\sba3\src\main\java\com\sba3\dao\CustomerDao.java
+C:\Users\verizon\workspace\sba3\src\main\java\com\sba3\model\Customer.java
+C:\Users\verizon\workspace\sba3\src\main\java\com\sba3\Sba3Application.java
